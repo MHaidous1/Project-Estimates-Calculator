@@ -43,5 +43,9 @@
  #Instuctions h3 {
     color: #3498db;
  }
- 
+ img {
+   width: 800px;
+   height: 500px;   
+   align-content: center;
+ }
  
