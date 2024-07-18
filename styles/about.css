@@ -44,8 +44,8 @@ header {
     border-radius: 5px;
 }
 
-#ptool {
-    display: block;
+.button {
+    display: inline-block;
     margin: 20px auto;
     background-color: #3498db;
     text-align: center;
@@ -56,9 +56,10 @@ header {
     transition: background-color 0.3s ease;
 }
 
-#ptool:hover {
+.button:hover {
     background-color: #2980b9;
 }
 
-
-
+#buttons {
+    text-align: center;
+}
